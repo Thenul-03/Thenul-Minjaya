@@ -102,39 +102,31 @@ Areas of academic interest:
 <!--              TECHNICAL INTERESTS                  -->
 <!-- ================================================= -->
 
+
+
 ## 🛠️ Technical Interests & Tools
 
 ### Business & Enterprise Applications
 
-<p>
-<img src="https://img.shields.io/badge/Zoho_CRM-DC4A3D?style=flat-square&logo=zoho&logoColor=white" />
-<img src="https://img.shields.io/badge/Zoho_Books-DC4A3D?style=flat-square&logo=zoho&logoColor=white" />
-<img src="https://img.shields.io/badge/ERP-Enterprise_Solutions-087568?style=flat-square" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Zoho_CRM-DC4A3D?style=for-the-badge&logo=zoho&logoColor=white" alt="Zoho CRM" />
+  <img src="https://img.shields.io/badge/Zoho_Books-DC4A3D?style=for-the-badge&logo=zoho&logoColor=white" alt="Zoho Books" />
+  <img src="https://img.shields.io/badge/ERP-Enterprise_Solutions-087568?style=for-the-badge" alt="ERP" />
 </p>
 
 ### Programming & Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,html,css" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,html,css" alt="Programming Technologies" />
 </p>
 
 ### Database & Development Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode,firebase" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode,firebase" alt="Database and Development Tools" />
 </p>
 
-### Professional Competencies
 
-- Business Requirements Analysis
-- Application Consulting
-- ERP Functional Solutions
-- Stakeholder Communication
-- Process Analysis and Optimization
-- Project Coordination
-- System Integration Concepts
-
----
 
 <!-- ================================================= -->
 <!--                    PROJECTS                       -->
@@ -158,23 +150,21 @@ Some areas I am interested in developing further:
 <!--                  GITHUB STATISTICS                -->
 <!-- ================================================= -->
 
+
+<!-- GITHUB STATISTICS -->
+
+
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="165"
-src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img height="165"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+<img
+  src="https://streak-stats.demolab.com?user=Thenul-03&theme=tokyonight&hide_border=true"
+  alt="GitHub Contribution Streak"
+/>
 
 </div>
 
----
 
 <!-- ================================================= -->
 <!--                     FOOTER                        -->
@@ -183,12 +173,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_
 <div align="center">
 
 ### "Bridging Business Needs with Technology Solutions."
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&color=087568&style=flat" />
-
-<br/><br/>
 
 **Thanks for visiting my profile!**
 
